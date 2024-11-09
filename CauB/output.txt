@@ -1,0 +1,6 @@
+4x^5 + 2x^3
+1x^10-2x^6
+
+Tong 2 da thuc: 1x^10-2x^6 + 4x^5 + 2x^3
+Hieu 2 da thuc: -1x^10 + 2x^6 + 4x^5 + 2x^3
+Tich 2 da thuc: 4x^15 + 2x^13-8x^11-4x^9
