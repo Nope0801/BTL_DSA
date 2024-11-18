@@ -1,7 +1,6 @@
-#include <bits/stdc++.h>
-
 #ifndef __sinhVien__cpp__
 #define __sinhVien__cpp__
+#include <bits/stdc++.h>
 
 using namespace std;
 class sinhVien

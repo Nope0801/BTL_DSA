@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 #include "node.cpp"
 using namespace std;
+#ifndef __DaThuc__cpp__
+#define __DaThuc__cpp__
 
 template <typename T>
 class DaThuc
@@ -25,7 +27,7 @@ public:
             current = next;
         }
     }
-    void insert(T heso, T somu)
+    void insert(T heso, int somu)
     {
         if (heso == 0)
         {
@@ -55,6 +57,9 @@ public:
             cout << h->getHeSo() << "x^" << h->getSoMu();
             if (h->getNext() != trailer && h->getNext()->getHeSo() > 0)
                 cout << " + ";
+            else{
+                cout << " ";
+            }
             h = h->getNext();
         }
         cout << endl;
@@ -192,7 +197,7 @@ public:
         }
     }
 };
-
+#endif
 int main()
 {
     //freopen("IN.INP", "r", stdin);

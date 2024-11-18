@@ -1,7 +1,6 @@
+#include "danhSachSinhVienList.cpp"
 #include <bits/stdc++.h>
 using namespace std;
-#include "danhSachSinhVienList.cpp"
-
 class app
 {
 private:

@@ -1,0 +1,1 @@
+h->getNext() != nullptr &&

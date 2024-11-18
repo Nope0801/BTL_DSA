@@ -1,8 +1,8 @@
+#ifndef __danhSachSinhVienList__cpp__
+#define __danhSachSinhVienList__cpp__
 #include <bits/stdc++.h>
 #include "sinhVien.cpp"
 using namespace std;
-#ifndef __danhSachSinhVienList__cpp__
-#define __danhSachSinhVienList__cpp__
 
 // class danhSachSinhVienVector{
 // private:

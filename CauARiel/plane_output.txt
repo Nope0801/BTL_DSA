@@ -1,0 +1,10 @@
+ID: 1	Name: Airbus A380-900	Speed: 900	Weight: 15000	Capacity: 700	Consumption: 338
+ID: 2	Name: Airbus A380-800	Speed: 853	Weight: 15200	Capacity: 700	Consumption: 318
+ID: 3	Name: Boeing 747-800	Speed: 700	Weight: 14800	Capacity: 650	Consumption: 351
+ID: 4	Name: Boeing 747-400	Speed: 624	Weight: 13446	Capacity: 566	Consumption: 228
+ID: 5	Name: Boeing 777-300	Speed: 550	Weight: 11000	Capacity: 587	Consumption: 279
+ID: 6	Name: Airbus A380-700	Speed: 525	Weight: 16000	Capacity: 676	Consumption: 301
+ID: 7	Name: Boeing 777-200	Speed: 440	Weight: 14260	Capacity: 590	Consumption: 260
+ID: 8	Name: Airbus A340-600	Speed: 420	Weight: 14353	Capacity: 580	Consumption: 245
+ID: 9	Name: Airbus A340-500	Speed: 372	Weight: 16700	Capacity: 590	Consumption: 233
+ID: 10	Name: Airbus A340-300	Speed: 300	Weight: 13705	Capacity: 580	Consumption: 220
